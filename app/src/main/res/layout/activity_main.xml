@@ -31,4 +31,9 @@
         android:layout_height="match_parent"
         android:src="@color/design_default_color_error"/>
 
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="match_parent"
+        android:src="@color/design_default_color_error"
+        app:layout_constraintEnd_toEndOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
